@@ -27,7 +27,7 @@ Ever wanted to get all details of a particular product on Amazon. Now do that wi
 - Open any **Python** IDE and run the `amazon.py` file.
 - Follow on screen terminal instructions
 
-## Steps to Contribute to this Project ! :point_down
+## Steps to Contribute to this Project ! :point_down:
 
 **Go through the link If you are new to Open Source Contribution [here](https://github.com/firstcontributions/first-contributions) on making your First Contribution !!**
 
@@ -46,15 +46,15 @@ Ever wanted to get all details of a particular product on Amazon. Now do that wi
 
 ### Any sort of Contributions are always welcomed :tada
 
-### Excited to contribute to the Project ? Head over Open Issues [here](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/issues)
+### Excited to contribute to the Project ? Head over Open Issues [here](https://github.com/abhichaudhri/Amazon-Web-Scrapper/issues)
 
-## Project Admin :point_down
+## Project Admin :point_down:
 
 <!-- If you click on the image it would take to your GitHub profile -->
 
 [![](https://github.com/abhichaudhri.png?size=100)](https://github.com/abhichaudhri)
 
-## Contributors :fire
+## Contributors :fire:
 
 Thanks to all these wonderful developers who made this project awesome!:raised_hands:
 <!-- If you click on the image it would take to your GitHub profile -->
@@ -63,7 +63,7 @@ Thanks to all these wonderful developers who made this project awesome!:raised_h
 <!-- markdownlint-disable -->
 
 <a href="https://github.com/abhichaudhri/Amazon-Web-Scrapper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhichaudhri/Amazon-Web-Scrapper" />
+  <img src="https://contrib.rocks/image?repo=AniketChaudhri/Amazon-Web-Scrapper" />
 </a>
 
 <!-- markdownlint-restore -->
