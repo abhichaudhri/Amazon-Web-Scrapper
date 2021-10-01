@@ -27,7 +27,7 @@ Ever wanted to get all details of a particular product on Amazon. Now do that wi
 - Open any **Python** IDE and run the `amazon.py` file.
 - Follow on screen terminal instructions
 
-## Steps to Contribute to this Project ! :point_down
+## Steps to Contribute to this Project ! :point_down:
 
 **Go through the link If you are new to Open Source Contribution [here](https://github.com/firstcontributions/first-contributions) on making your First Contribution !!**
 
@@ -38,7 +38,7 @@ Ever wanted to get all details of a particular product on Amazon. Now do that wi
   - Now create a branch using the git checkout command: `git checkout -b your-new-branch-name`
 - Make changes as per your requirement to solve the Issues mentioned in the `Future scope of the Project` and commit those changes.
 - If you go to the project directory and execute the command git status, you'll see there are changes. Add those changes to the branch you just created using the `git add`
-- Now commit those changes using the git commit command: `git commit -m "Added the feature of Scrapping Flipkart products"`
+- Now commit those changes using the git commit command: `git commit -m "{message}"`
 - Push your changes to GitHub using the command `git push origin <add-your-branch-name>`
 - If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 - Now describe the changes you made and submit the `pull request`.
@@ -46,15 +46,15 @@ Ever wanted to get all details of a particular product on Amazon. Now do that wi
 
 ### Any sort of Contributions are always welcomed :tada
 
-### Excited to contribute to the Project ? Head over Open Issues [here](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/issues)
+### Excited to contribute to the Project ? Head over Open Issues [here](https://github.com/abhichaudhri/Amazon-Web-Scrapper/issues)
 
-## Project Admin :point_down
+## Project Admin :point_down:
 
 <!-- If you click on the image it would take to your GitHub profile -->
 
 [![](https://github.com/abhichaudhri.png?size=100)](https://github.com/abhichaudhri)
 
-## Contributors :fire
+## Contributors :fire:
 
 Thanks to all these wonderful developers who made this project awesome!:raised_hands:
 <!-- If you click on the image it would take to your GitHub profile -->
@@ -63,7 +63,7 @@ Thanks to all these wonderful developers who made this project awesome!:raised_h
 <!-- markdownlint-disable -->
 
 <a href="https://github.com/abhichaudhri/Amazon-Web-Scrapper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhichaudhri/Amazon-Web-Scrapper" />
+  <img src="https://contrib.rocks/image?repo=AniketChaudhri/Amazon-Web-Scrapper" />
 </a>
 
 <!-- markdownlint-restore -->
